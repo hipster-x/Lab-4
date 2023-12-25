@@ -3,10 +3,10 @@
  Выполнил студент ББМО-02-23 Евдокимов А.М.
 
  # Создание ключевой пары GPG
-
  
+ ![Desktop Screenshot 2023 12 25 - 14 10 03 23](https://github.com/hipster-x/Lab-4/assets/145153023/a61ea81b-46a6-4324-92e9-5c2e4bf56f2e)
 
-  ![Desktop Screenshot 2023 12 25 - 14 12 05 10](https://github.com/hipster-x/Lab-4/assets/145153023/61813aa7-808d-4556-8e6c-9eaa0651f6bb)
+ ![Desktop Screenshot 2023 12 25 - 14 12 05 10](https://github.com/hipster-x/Lab-4/assets/145153023/61813aa7-808d-4556-8e6c-9eaa0651f6bb)
 
 # Просмотр созданных ключей, подписей, отпечатков
 
