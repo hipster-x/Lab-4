@@ -4,7 +4,7 @@
 
  # Создание ключевой пары GPG
 
-  ![Desktop Screenshot 2023 12 25 - 14 12 05 10](https://github.com/hipster-x/Lab-4/assets/145153023/bcf21cc1-17d1-4b49-a3f6-f573efba5166)
+ 
 
   ![Desktop Screenshot 2023 12 25 - 14 12 05 10](https://github.com/hipster-x/Lab-4/assets/145153023/61813aa7-808d-4556-8e6c-9eaa0651f6bb)
 
